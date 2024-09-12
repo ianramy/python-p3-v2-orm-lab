@@ -1,6 +1,6 @@
 from department import Department
 from employee import Employee
-import pytest
+import pytest # type: ignore
 
 
 class TestEmployeeProperties:

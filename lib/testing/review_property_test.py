@@ -1,7 +1,7 @@
 from employee import Employee
 from department import Department
 from review import Review
-import pytest
+import pytest # type: ignore
 
 
 class TestReviewProperties:
